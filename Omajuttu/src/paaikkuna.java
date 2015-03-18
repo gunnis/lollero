@@ -75,7 +75,7 @@ public class paaikkuna extends JFrame {
           if(hakuehto.toString().equals(tiedosto.toString())) {        	
          	return "Oikein";
            	}
-         else return "V‰‰rinf";
+         else return "V‰‰rinFD";
          }       		
 
 	/**
